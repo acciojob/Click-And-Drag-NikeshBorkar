@@ -1,4 +1,3 @@
-// Your code here.
 const slider = document.querySelector('.items');
     let isDown = false;
     let startX;
